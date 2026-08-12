@@ -1,0 +1,37 @@
+# Merge these values into the existing _config.yml in your Academic Pages repo
+# (do NOT replace the whole file — just update these keys).
+
+title: "Ahmad Bassaleh"
+name: "Ahmad Bassaleh"
+description: "Ph.D. Candidate, Industrial, Systems, and Manufacturing Engineering | Wichita State University"
+url: "https://ahmadbassaleh.github.io"
+baseurl: ""
+
+author:
+  name: "Ahmad Bassaleh"
+  avatar: "profile.png"          # place your photo at /images/profile.png
+  bio: "Ph.D. Candidate, ISME | Wichita State University"
+  location: "Wichita, KS"
+  email: "ahbassaleh@shockers.wichita.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ahbassaleh@shockers.wichita.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ahmad-bassaleh/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=FCv26XEAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0000-7100-8614"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ahmad-bassaleh/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=FCv26XEAAAAJ&hl=en"
