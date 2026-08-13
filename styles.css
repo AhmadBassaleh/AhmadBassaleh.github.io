@@ -243,3 +243,15 @@ footer.site-footer .divider { margin: 0 0.4rem; }
   html { scroll-behavior: auto; }
   a { transition: none; }
 }
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.8rem;
+}
+.gallery-grid img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid var(--line);
+}
